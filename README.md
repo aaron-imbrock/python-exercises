@@ -23,7 +23,7 @@ git clone git@github.com:aaron-imbrock/python-exercises.git
 Create project virtualenv and install module requirements:
 ```console
 cd python-exercises
-pipenv install --dev
+pipenv install --pre
 pipenv lock --pre
 pipenv shell
 ```
@@ -33,6 +33,9 @@ Each program can be found in `src`. To run:
 ```console
 python ./src/snakes-cafe.py
 ```
+## Programs
+
+* [snakes-cafe](https://github.com/aaron-imbrock/python-exercises/blob/main/src/snakes_cafe_README.md)
 
 ## Authors
 
