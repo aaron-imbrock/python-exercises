@@ -14,7 +14,7 @@ Creation: 11/25/2020
 
 ## Starting Up
 
-```
+```console
 $ python main.py
 **************************************
 **   Welcome to the Snakes Cafe!    **
@@ -53,8 +53,10 @@ Unicorn Tears
 **************************************
 >
 ```
+
 Entering an order:
-```
+
+```console
 **************************************
 **   What would you like to order?  **
 **************************************
@@ -66,12 +68,14 @@ Entering an order:
 
 ** 2 orders of Wings have been added to your meal **
 ```
+
 Exiting
-```
+
+```console
 > quit
-$ 
+$
 ```
 
 ## Testing
 
-No testing is required for this lab.
+None
