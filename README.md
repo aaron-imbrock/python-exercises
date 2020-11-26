@@ -42,7 +42,7 @@ python ./src/snakes-cafe.py
 
 ## Programs
 
-* [snakes-cafe](https://github.com/aaron-imbrock/python-exercises/blob/main/src/snakes_cafe_README.md)
+* [snakes-cafe](https://github.com/aaron-imbrock/python-exercises/blob/snakes-cafe/src/snakes_cafe_README.md)
 
 ## Authors
 
