@@ -32,3 +32,6 @@ def say(quote):
 
 
 say("Hello World!")
+
+def main():
+    pass
