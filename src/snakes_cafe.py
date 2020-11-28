@@ -32,3 +32,9 @@ def say(quote):
 
 
 say("Hello World!")
+
+def main():
+    pass
+
+if __main__ == "__main__":
+    main()
